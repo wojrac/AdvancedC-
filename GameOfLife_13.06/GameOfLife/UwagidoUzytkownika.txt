@@ -1,0 +1,8 @@
+play nie wspóldzia³a z backiem, albo sie puszcza wzór do tego zeby chodzi³ sam. wtedy mo¿na ewentualnie zatrzymaæ,
+ daæ pare ruchóww do przodu i puœciæ dalej , ale nie mo¿na cofaæ
+ Cofaæ mozna tylko jak sami ruszamy nasz¹ figur¹ do turnem
+ 
+ Jeœli w pliku rle s¹ liczby wiêcej ni¿ jednocyfrowe, nale¿y je zamieniæ na jednocyfrowe
+ np:
+ 32b  przechodzi na  8b8b8b8b 
+ tak ¿eby zgadza³a siê suma 
